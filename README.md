@@ -26,3 +26,5 @@ jupyter notebook time_series_econometrics.ipynb
 
 Siva — M.Sc. Quantitative Finance, Kiel University (CAU).
 Interests: financial econometrics, volatility modelling, energy markets.
+
+   Built from my own course exercises in Econometric Methods. Code was refactored and documented with AI assistance (Claude); I reviewed every section and checked each result against the known simulated values.
